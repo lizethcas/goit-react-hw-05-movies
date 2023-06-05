@@ -18,7 +18,7 @@ function App() {
     <>
       <Routes>
         <Route path="/" element={<SharedLayout />}>
-          <Route path="/" element={<Home />} />
+          <Route path="/goit-react-hw-05-movies/" element={<Home />} />
           <Route path="/movies" element={<Movies />} />
           <Route path="/movies/:moviesId" element={<MoviesDetails />}>
             <Route path="cast" element={<Cast />} />

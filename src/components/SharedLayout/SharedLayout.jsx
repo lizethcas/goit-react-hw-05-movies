@@ -7,7 +7,7 @@ const SharedLayout = () => {
     <>
       <header>
         <nav className="nav">
-          <NavLink to="/" className="activeLink">
+          <NavLink to="/goit-react-hw-05-movies/" className="activeLink">
             Home
           </NavLink>
           <NavLink to="/movies" className="activeLink">

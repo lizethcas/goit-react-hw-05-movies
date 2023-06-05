@@ -20,7 +20,7 @@ const Home = () => {
 
   return (
     <main>
-      <h1>Treding today</h1>
+      <h1>Trending today</h1>
       <List
         data={data}
         renderItem={(movie) => (
