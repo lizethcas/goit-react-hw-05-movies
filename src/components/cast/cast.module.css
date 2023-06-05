@@ -1,0 +1,34 @@
+.card__credits {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    gap: 15px;
+    padding: 0;
+    margin: 15px auto;
+    list-style: none;
+
+}
+
+.card__credits__img {
+    width: 50px;
+    text-align: center;
+}
+
+h5 {
+    margin: 0;
+}
+
+.li {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+    box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.3);
+    width: 10%;
+}
+
+p {
+
+    font-size: 12px;
+}

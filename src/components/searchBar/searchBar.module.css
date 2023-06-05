@@ -1,0 +1,35 @@
+.input {
+    background-color: #E7ECF2;
+    border: solid 1px  #242424;
+    padding: 5px;
+    border-radius: 5px;
+    width: 45%;
+    color: #242424;
+
+}
+
+.form {
+    justify-content: center;
+    display: flex;
+    gap: 5px;
+    margin: 10px;
+    justify-content: flex-start;
+}
+
+.searchbar {
+
+    text-align: center;
+    justify-content: center;
+    width: 95%;
+    padding: 10px;
+    margin: auto;
+    background-color: #646cff;
+    border-radius: 5px;
+    place-items: center;
+
+}
+
+.button {
+    margin: 0;
+    font-size: 0.6em;
+}
